@@ -56,7 +56,7 @@
     "@jupyterlab/shared-models": "^3.1.0",
     "@lumino/coreutils": "^1.5.3",
     "@lumino/signaling": "^1.4.3",
-    "fast-xml-parser": "^3.19.0",
+    "fast-xml-parser": "^4.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-json-tree": "^0.15.0",
